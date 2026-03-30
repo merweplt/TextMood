@@ -1,7 +1,6 @@
 # TextMood
 
-**TextMood**, yapay zekanın temel mantığını basit bir şekilde simüle eden bir projedir.  
-Bu proje, kullanıcıdan aldığı metinleri analiz ederek **pozitif, negatif veya neutral duygu tahmini** yapar.  
+Bu çalışma, duygu analizi (sentiment analysis) yöntemleriyle metin madenciliği prensiplerini uygulamaktadır. Geliştirilen TextMood mimarisi, doğal dil verilerini işleyerek duygu durum tespiti yapmakta ve metinlerin duygusal valansını yüksek doğrulukla sınıflandırmayı amaçlamaktadır. 
 
 ## Özellikler
 - Basit AI simülasyonu
